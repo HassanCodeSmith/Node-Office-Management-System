@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab7f9534.css",
+    "main.js": "/static/js/main.26e9cb34.js",
+    "static/js/496.c8bc0447.chunk.js": "/static/js/496.c8bc0447.chunk.js",
+    "static/media/sfsLogo.png": "/static/media/sfsLogo.e7f3f775bd8eae7e94d9.png",
+    "static/media/loginAvatar.png": "/static/media/loginAvatar.da2197a795d6b41084d3.png",
+    "static/media/forgotpassword1.png": "/static/media/forgotpassword1.6f0b882de329bff360ca.png",
+    "static/media/registericon.png": "/static/media/registericon.05eaa68d35ae76217739.png",
+    "index.html": "/index.html",
+    "main.ab7f9534.css.map": "/static/css/main.ab7f9534.css.map",
+    "main.26e9cb34.js.map": "/static/js/main.26e9cb34.js.map",
+    "496.c8bc0447.chunk.js.map": "/static/js/496.c8bc0447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab7f9534.css",
+    "static/js/main.26e9cb34.js"
+  ]
+}
